@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Luis M. Montilla academic website"
+title = "Luis M. Montilla's academic website"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://luismmontilla.netlify.com/`.
@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-139997063-2"
 
 ############################
 ## Advanced options below ##
