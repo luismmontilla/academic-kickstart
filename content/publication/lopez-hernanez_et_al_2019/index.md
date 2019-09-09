@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Identification of strengths and weaknesses of cooperative efforts within the wider Caribbean using a collaboration network approach"
-authors: ["Ramírez, R", "Montilla, LM", "Cavada-Blanco, FC", "Croquer, A"]
-date: 2016-05-04
-doi: "10.7490/f1000research.1111809.1"
+title: "Venezuelan coral reefs: A health assessment using the Reef Health Index with complementary variables"
+authors: ["López-Hernández, MA", "Montilla, LM", "Verde, A", "Agudo-Adriani, E", "Rivera, A", "Miyazawa, E", "Mariño-Briceño, G", "Ascanio, A", "Cróquer, A"]
+date: 2019-05-20
+doi: "10.5281/zenodo.3235468"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-28T00:19:26-04:00
+publishDate: 2019-09-09T17:17:22-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [10]
+publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
-publication: "F1000Research"
+publication: "Zenodo"
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Networks", "AMLC"]
+tags: ["Corals", "AMLC"]
 categories: ["Posters"]
 featured: false
 
@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf:
 url_code:
-url_dataset: https://zenodo.org/record/437549
-url_poster: https://f1000research.com/posters/5-799
+url_dataset:
+url_poster: https://zenodo.org/record/3235468
 url_project:
 url_slides:
 url_source:
@@ -67,4 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Presented at the 37th scientific meeting of the Association of Marine Laboratories of the Caribbean (Willemstad, Curaçao, 2015). 
+Presented at the 39th scientific meeting of the Association of Marine Laboratories of the Caribbean (Punta Cana, Dominican Republic, 2019). 
