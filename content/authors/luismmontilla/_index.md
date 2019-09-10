@@ -45,6 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7079-6775
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0002-7079-6775
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/luismmontilla
@@ -54,6 +60,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/luismmontilla
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Luis_Montilla
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
