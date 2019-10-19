@@ -4,7 +4,7 @@
 title: "Un paraíso ecológico en declive en el Caribe"
 subtitle: "Publicado en [Revista Persea](https://revistapersea.com)"
 summary: ""
-authors: []
+authors: [Montilla, LM]
 tags: ["Corals", "SciComm"]
 categories: ["SciComm"]
 date: 2017-05-25
