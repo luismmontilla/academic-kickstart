@@ -18,7 +18,7 @@ organizations:
   url: "http://www.marinesymbiomes.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+#bio: My research interests include...
 
 #interests:
 #- A
@@ -79,4 +79,6 @@ email: ""
 #- Visitors
 ---
 
-Under construction...
+I'm a Ph.D. student at Stazione Zoologica Anton Anton Dohrn, as part of the Marine Symbiomes Research Group. I'm currently researching the role of jellyfish microbiome and jellyfish blooms in nitrogen and carbon cycling in the sea.
+
+Here you will find links to my research papers, side projects, and occasional blog posts. Feel free to contact me for any inquiry!
