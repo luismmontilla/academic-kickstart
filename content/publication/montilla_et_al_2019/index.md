@@ -4,7 +4,7 @@
 title: "Systematic review and meta-analysis of 50 years of coral disease research visualized through the scope of network theory"
 authors: []
 date: 2019-08-27T00:06:23-04:00
-doi: "10.7717/peerj.7041"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-08-27T00:06:23-04:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://peerj.com/articles/7041/
 url_code:
 url_dataset:
 url_poster:

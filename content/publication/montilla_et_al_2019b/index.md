@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/luismmontilla/coral_muse
 url_dataset:
 url_poster: https://zenodo.org/record/3233879
-url_project: https://github.com/luismmontilla/coral_muse
+url_project: 
 url_slides:
 url_source:
 url_video:
