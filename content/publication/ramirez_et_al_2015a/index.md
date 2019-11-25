@@ -4,7 +4,7 @@
 title: "Identification of strengths and weaknesses of cooperative efforts within the wider Caribbean using a collaboration network approach"
 authors: ["Ramírez, R", "Montilla, LM", "Cavada-Blanco, FC", "Croquer, A"]
 date: 2016-05-04
-doi: "10.7490/f1000research.1111809.1"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-08-28T00:19:26-04:00

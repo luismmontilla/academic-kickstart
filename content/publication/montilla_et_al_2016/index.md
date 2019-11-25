@@ -4,7 +4,7 @@
 title: "Caribbean yellow band disease compromises the activity of catalase and glutathione S-transferase in the reef-building coral _Orbicella faveolata_ exposed to anthracene"
 authors: []
 date: 2016-08-27T23:35:54-04:00
-doi: "10.3354/dao02980"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2016-05-03
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.int-res.com/abstracts/dao/v119/n2/p153-161
 url_code:
 url_dataset:
 url_poster:
