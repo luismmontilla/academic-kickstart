@@ -1,8 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CoDiRNet: Coral Disease Research Network"
-summary: ""
+title: "CoDiRNet"
+subtitle: "Coral Disease Research Network analysis"
+summary: "Coral Disease Research Network analysis"
 authors: []
 tags: ["Corals", "Networks"]
 categories: ["Research"]
@@ -16,7 +17,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -39,4 +40,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Available as a Github repo at [https://github.com/luismmontilla/CoDiRNet](https://github.com/luismmontilla/CoDiRNet)
