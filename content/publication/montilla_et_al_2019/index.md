@@ -37,10 +37,10 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://peerj.com/articles/7041/
-url_code:
+url_code: https://github.com/luismmontilla/CoDiRNet
 url_dataset:
 url_poster:
-url_project: https://github.com/luismmontilla/CoDiRNet
+url_project: 
 url_slides:
 url_source:
 url_video:

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -78,6 +78,7 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-I’m a marine ecologist pursuing my Ph.D. at Stazione Zoologica Anton Dohrn as part of the Marine Symbiomes Research Group. I’m currently studying the role of jellyfish microbiome and jellyfish blooms in carbon and nitrogen cycling.
+I’m a marine ecologist pursuing my Ph.D. at Stazione Zoologica Anton Dohrn as part of the Marine Symbiomes Research Group. I’m currently studying the role of invertebrate-bacterial associations in nitrogen cycling associated with seagrass ecosystems.
 
 Here you will find my links to my publications, academic social sites, side projects, and occasional blog posts. Feel free to contact me in case of any inquiry!
+

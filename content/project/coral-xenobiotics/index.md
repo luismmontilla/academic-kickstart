@@ -4,8 +4,8 @@
 title: "Coral Xenobiotics"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: ["Corals", "Stressors"]
+categories: ["Research"]
 date: 2019-08-27T23:50:58-04:00
 
 # Optional external URL for project (replaces project detail page).
