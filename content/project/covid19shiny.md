@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Awesome coral research"
+title: "COVID-19 ITA"
 subtitle: ""
-summary: "A curated list of coral research tools and resources."
+summary: "Shiny app showing data of COVID-19 cases in Italy"
 authors: []
-tags: ["Curated list", "Corals", "Misc"]
+tags: ["Misc", "R"]
 categories: []
 date: 2020-02-15T22:12:23+01:00
 lastmod: 2020-02-15T22:12:23+01:00
@@ -13,7 +13,7 @@ featured: false
 draft: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/luismmontilla/awesome-coral-research"
+external_link: "https://lumimoto.shinyapps.io/covid-19-ita/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
