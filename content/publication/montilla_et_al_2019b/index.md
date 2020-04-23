@@ -4,7 +4,7 @@
 title: "Transects, quadrats, or points? What is the best combination to get a precise estimation of a coral community?"
 authors: ["Montilla, LM","Ascanio, A", "López-Hernández, MA", "Mariño-Briceño, G", "Miyazawa, E", "Rebolledo, Z","Rivera, A", "S. Mancilla, D", "Verde, A","Cróquer, A"]
 date: 2019-05-28
-doi: "10.5281/zenodo.3233879"
+#doi: "10.5281/zenodo.3233879"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-09T17:28:53-04:00

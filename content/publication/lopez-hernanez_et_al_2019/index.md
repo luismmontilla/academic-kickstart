@@ -4,7 +4,7 @@
 title: "Venezuelan coral reefs: A health assessment using the Reef Health Index with complementary variables"
 authors: ["López-Hernández, MA", "Montilla, LM", "Verde, A", "Agudo-Adriani, E", "Rivera, A", "Miyazawa, E", "Mariño-Briceño, G", "Ascanio, A", "Cróquer, A"]
 date: 2019-05-20
-doi: "10.5281/zenodo.3235468"
+#doi: "10.5281/zenodo.3235468"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-09T17:17:22-04:00

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Caribbean yellow band disease compromises the activity of catalase and glutathione S-transferase in the reef-building coral _Orbicella faveolata_ exposed to anthracene"
-authors: []
+authors: ["Montilla, LM","Ramos, R", "García, E", "Cróquer, A"]
 date: 2016-08-27T23:35:54-04:00
 doi:
 
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["coral_diseases"]
+projects: ["coral_vzla"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

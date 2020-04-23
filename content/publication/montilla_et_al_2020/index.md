@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Systematic review and meta-analysis of 50 years of coral disease research visualized through the scope of network theory"
-authors: ["Montilla, LM","Ascanio, A", "Verde, A","Cróquer, A"]
-date: 2019-06-04
-doi:
+title: "The use of pseudo-multivariate standard error to improve the sampling design of coral monitoring programs"
+authors: ["Montilla, LM","Ascanio, A", "López-Hernández, MA", "Mariño-Briceño, G", "Miyazawa, E", "Rebolledo-Sánchez, Z","Rivera, A", "S. Mancilla, D", "Verde, A","Cróquer, A"]
+date: 2020-04-22
+#doi: "10.7717/peerj.8429"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-27T00:06:23-04:00
+#publishDate: 2019-09-09T17:28:53-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# 7 = Thesis; 8 = Patent; 9 = Dataset; 10 = Poster
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Corals", "Coral diseases", "Networks"]
+tags: ["AMLC", "Corals", "Multivariate standard error"]
 categories: ["Papers"]
 featured: false
 
@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://peerj.com/articles/7041/
-url_code: https://github.com/luismmontilla/CoDiRNet
+url_pdf: https://peerj.com/articles/8429/
+url_code: https://github.com/luismmontilla/coral_muse
 url_dataset:
-url_poster:
+url_poster: https://zenodo.org/record/3233879
 url_project: 
 url_slides:
 url_source:
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["coral_diseases"]
+projects: ["coral_vzla"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

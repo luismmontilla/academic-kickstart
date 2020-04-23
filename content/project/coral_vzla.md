@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Trends in coral disease research"
+title: "Coral reefs from Venezuela"
 subtitle: ""
 summary: ""
 authors: []
